@@ -1,1 +1,39 @@
 # roka
+강한육군체
+
+<pre>
+@font-face {
+    font-family: "roka";
+    font-weight: 500;
+    font-style: normal;
+    src: url("https://cdn.jsdelivr.net/gh/wefonts/roka/roka-Medium.eot");
+    src: url("https://cdn.jsdelivr.net/gh/wefonts/roka/roka-Medium.eot?#iefix") format("embedded-opentype"),
+         url("https://cdn.jsdelivr.net/gh/wefonts/roka/roka-Medium.woff2") format("woff2"),
+         url("https://cdn.jsdelivr.net/gh/wefonts/roka/roka-Medium.woff") format("woff"),
+         url("https://cdn.jsdelivr.net/gh/wefonts/roka/roka-Medium.ttf") format("truetype");
+    font-display: swap;
+} 
+@font-face {
+    font-family: "roka";
+    font-weight: 700;
+    font-style: normal;
+    src: url("https://cdn.jsdelivr.net/gh/wefonts/roka/roka-Bold.eot");
+    src: url("https://cdn.jsdelivr.net/gh/wefonts/roka/roka-Bold.eot?#iefix") format("embedded-opentype"),
+         url("https://cdn.jsdelivr.net/gh/wefonts/roka/roka-Bold.woff2") format("woff2"),
+         url("https://cdn.jsdelivr.net/gh/wefonts/roka/roka-Bold.woff") format("woff"),
+         url("https://cdn.jsdelivr.net/gh/wefonts/roka/roka-Bold.ttf") format("truetype");
+    font-display: swap;
+} 
+
+.roka {
+    font-family: "roka";
+}
+.roka500 {
+    font-family: "roka";
+    font-weight: 500;
+}
+.roka700 {
+    font-family: "roka";
+    font-weight: 700;
+}
+</pre>
